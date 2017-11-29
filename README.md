@@ -7,3 +7,11 @@ When the `root` account is not enabled in macOS High Sierra 10.13.1, it is possi
 `python3 NULLROOT.py`
 
 [![null-root](https://asciinema.org/a/v7WRC5LIW0hEIFocxH1pdk8ot.png "null-root")](https://asciinema.org/a/v7WRC5LIW0hEIFocxH1pdk8ot)
+
+### fix
+
+Enable the `root` account (if it is not already enabled) and set the password to a strong password
+
+`System Preferences>Users & Groups>Login Options>Network Account Server (Join)>Open Directory Utility>Edit>Enable Root`
+
+`System Preferences>Users & Groups>Login Options>Network Account Server (Join)>Open Directory Utility>Edit>Change Root Password`
