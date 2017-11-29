@@ -6,7 +6,7 @@ When the `root` account is not enabled in macOS High Sierra 10.13.1, it is possi
 
 `python3 NULLROOT.py`
 
-[![null-root](https://asciinema.org/a/v7WRC5LIW0hEIFocxH1pdk8ot.png "null-root")](https://asciinema.org/a/v7WRC5LIW0hEIFocxH1pdk8ot)
+[![null-root](https://asciinema.org/a/ZUjyKCfXBgtQUgVCeeC1lr6u6.png "null-root")](https://asciinema.org/a/ZUjyKCfXBgtQUgVCeeC1lr6u6)
 
 ### fix
 
