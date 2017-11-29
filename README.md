@@ -2,6 +2,8 @@
 
 When the `root` account is not enabled in macOS High Sierra 10.13.1, it is possible to create a root account with a known password that you can then use for whatever you want. This is a PoC `python3` script for exploiting that vulnerability. Please use only on systems that you own or have permission to test on.
 
+This is available as this standalone script or as part of my [kernelpop](https://github.com/spencerdodd/kernelpop) kernel exploitation framework.
+
 ### usage
 
 `python3 NULLROOT.py`
